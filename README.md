@@ -1,2 +1,2 @@
-# Games_Python
+# Python_Stuff
 Some fun games I made using python... 
